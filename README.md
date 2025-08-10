@@ -38,7 +38,7 @@ A fully responsive and interactive **E-commerce project** designed and built fro
    - Adapts seamlessly from desktop to tablet and mobile
 
 ## About the Developer
-Crafted with by Nova Quill
+Crafted with by Sahar Mahmoud
 Explore more of my work:
 
 GitHub: [@SaharMahmoudDev on github](https://github.com/SaharMahmoudDev)
